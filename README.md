@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mitanshu
+<h1 align="center">Hi 👋, I'm Mitanshu Baranwal</h1>
 <h5 align="center">I am an AI/ML and Backend Developer with strong skill set in Python, SQL, Django, computer vision, and AWS. </h5>
 
 ---
