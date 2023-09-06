@@ -33,4 +33,5 @@ Few things about me:
 - Other Libraries (pandas, Rest API, Celery, Matplotlib, NumPy, regular expression) 📚
 - Machine Learning (regression, clustering, CNN, Tensorflow) 🤖
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitanshubaranwal&show_icons=true&locale=en&layout=compact" alt="mitanshubaranwal" /></p>
 
