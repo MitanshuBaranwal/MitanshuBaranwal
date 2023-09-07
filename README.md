@@ -64,15 +64,5 @@ Few things about me:
   </a>
 </p>
 
-
-- Coding (Python) 🐍
-- Computer Vision (Dlib, YOLO, DeepFace, mediapipe, Haarcascades, tesseract OCR) 👁️
-- Web Frameworks (Django) 🌐
-- Cloud Services (AWS Glue, Redshift, Athena, EC2, Lambda, S3, Azure Auto ML) ☁️
-- Database (MySQL, SSMS) 🗃️
-- NLP (nltk, spacy, regex, tokenization, stemming, lemmatization, word2vec, bert) 📜
-- Other Libraries (pandas, Rest API, Celery, Matplotlib, NumPy, regular expression) 📚
-- Machine Learning (regression, clustering, CNN, Tensorflow) 🤖
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitanshubaranwal&show_icons=true&locale=en&layout=compact" alt="mitanshubaranwal" /></p>
 
