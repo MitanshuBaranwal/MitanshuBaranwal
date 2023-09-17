@@ -13,7 +13,7 @@ Few things about me:
 📍 I’m currently located in **Bangalore, Karnataka;**
 
 📧 How to reach me **mitanshubaranwal70232@gmail.com**
-
+                    https://www.linkedin.com/in/mitanshu-baranwal-a9492b15b/
 💬 Ask me about **anything I am happy to help;**
 
 <h3 align="left">Connect with me:</h3>
