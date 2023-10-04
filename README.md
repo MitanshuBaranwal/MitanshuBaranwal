@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <a href="https://mitanshubaranwal.vercel.app/">Mitanshu</a></h1>
-<h5 align="center">I wear many hats at work AI/ML Developer, Python Backend Developer, ETL Developer, Django Developer, AWS) </h5>
+<h5 align="center">I wear many hats at work (AI/ML Developer, Python Backend Developer, ETL Developer, Django Developer) </h5>
 
 ---
 Few things about me:
