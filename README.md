@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm <a href="https://mitanshubaranwal.vercel.app/">Mitanshu</a></h1>
-<h5 align="center">I am an AI/ML and Backend Developer with strong skill set in Python, SQL, Django, computer vision, and AWS. It all started with my curiosity to learn about Artificial Intelligence and the ability of AI to solve several Real Life Problems. I worked on several Machine Learning and deep Learning projects involving Computer Vision and NLP. I am on this journey to empower and solve as many complex real world problem as possible with the knowledge of Machine Learning and Artificial Intelligence. </h5>
+<h5 align="center">I am an AI/ML and Backend Developer with strong skill set in Python, SQL, Django, computer vision, and AWS. </h5>
 
 
 ---
-Few things about me:
+A few things about me:
 
 💻 I’ve total **2+ years of experience as Software Developer**
 
@@ -16,6 +16,8 @@ Few things about me:
 📧 How to reach me **mitanshubaranwal70232@gmail.com**
 
 💬 Ask me about **anything I am happy to help;**
+
+It all started with my curiosity to learn about Artificial Intelligence and the ability of AI to solve several Real Life Problems. I worked on several Machine Learning and Deep Learning projects involving Computer Vision and NLP. I am on this journey to empower and solve as many complex real-world problems as possible with the knowledge of Machine Learning and Artificial Intelligence. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
