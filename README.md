@@ -67,8 +67,11 @@ It all started with my curiosity to learn about Artificial Intelligence and the 
   </a>
 </p>
 
-![snake gif](https://github.com/MitanshuBaranwal/MitanshuBaranwal/blob/output/github-contribution-grid-snake.gif)
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitanshubaranwal&show_icons=true&locale=en&layout=compact" alt="mitanshubaranwal" /></p>
+
+
+![snake gif](https://github.com/MitanshuBaranwal/MitanshuBaranwal/blob/output/github-contribution-grid-snake.gif)
 
