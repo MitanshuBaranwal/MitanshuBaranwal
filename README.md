@@ -17,7 +17,7 @@ A few things about me:
 
 💬 Ask me about **anything I am happy to help;**
 
-It all started with my curiosity to learn about Artificial Intelligence and the ability of AI to solve several Real Life Problems. I worked on several Machine Learning and Deep Learning projects involving Computer Vision and NLP. I am on this journey to empower and solve as many complex real-world problems as possible with the knowledge of Machine Learning and Artificial Intelligence. 
+It all started with my curiosity to learn about Machines and Artificial Intelligence and the ability of machines to solve several Real Life Problems. I worked on several Bakend, Data Engineering and AI projects. I am on this journey to empower and solve as many complex real-world problems as possible with the knowledge of Machine Learning and Artificial Intelligence. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
