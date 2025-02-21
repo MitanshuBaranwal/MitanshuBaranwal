@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <a href="https://mitanshubaranwal.vercel.app/">Mitanshu</a></h1>
-<h5 align="center">I am a Python Developer with a strong skill set in Data Engineering, AI ML, SQL, Django, computer vision, and AWS. </h5>
+<h5 align="center">I am a Python Developer with a strong skill set in Data Engineering, AI, SQL, Django, computer vision, and AWS. </h5>
 
 
 ---
