@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <a href="https://mitanshubaranwal.vercel.app/">Mitanshu</a></h1>
-<h5 align="center">I am a Python Developer with a strong skill set in Data Engineering, AI, SQL, Django, computer vision, and AWS. </h5>
+<h5 align="center">I am a Python Developer with a strong skill set in Data Engineering, AI, SQL, Django, and AWS. </h5>
 
 
 ---
@@ -9,13 +9,13 @@ A few things about me:
 
 📫 I enjoy **learning and building stuff.**
 
-🌱 I’m currently working on **a personal neural network,deep learning project;**
+🌱 I’m currently working on **a personal project based on vector databases.;**
 
 📍 I’m currently located in **Bangalore, Karnataka;**
 
 📧 How to reach me **mitanshubaranwal70232@gmail.com**
 
-💬 Ask me about **anything I am happy to help;**
+💬 Reach out to me for any suggestions or suggest me any changes in my current code ** I am happy to hear;**
 
 It all started with my curiosity to learn about Machines and Artificial Intelligence and the ability of machines to solve several Real Life Problems. I worked on several Backend, Data Engineering and AI projects. I am on this journey to empower and solve as many complex real-world problems as possible with my forever learning, innovative and hard-working mindset. 
 
