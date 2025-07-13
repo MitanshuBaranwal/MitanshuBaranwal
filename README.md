@@ -24,13 +24,6 @@ It all started with my curiosity to learn about Machines and the ability of mach
 <a href="https://linkedin.com/in/mitanshu-baranwal-a9492b15b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mitanshu-baranwal-a9492b15b" height="30" width="40" /></a>
 </p>
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitanshubaranwal&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mitanshubaranwal&show_icons=true&theme=tokyonight&hide=prs,issues" alt="GitHub Stats" />
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -76,9 +69,13 @@ It all started with my curiosity to learn about Machines and the ability of mach
   </a>
 </p>
 
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitanshubaranwal&show_icons=true&locale=en&layout=compact" alt="mitanshubaranwal" /></p>
 
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitanshubaranwal&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mitanshubaranwal&show_icons=true&theme=tokyonight&hide=prs,issues" alt="GitHub Stats" />
+</p>
 
-![snake gif](https://github.com/MitanshuBaranwal/MitanshuBaranwal/blob/output/github-contribution-grid-snake.svg)
 
