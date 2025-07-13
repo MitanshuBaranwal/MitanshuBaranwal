@@ -5,7 +5,7 @@
 ---
 A few things about me:
 
-💻 I’ve total **3+ years of experience as Software Developer**
+💻 I’ve total **4 years of experience as Software Developer**
 
 📫 I enjoy **learning and building stuff.**
 
