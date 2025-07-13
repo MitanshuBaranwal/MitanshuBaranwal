@@ -75,7 +75,6 @@ It all started with my curiosity to learn about Machines and the ability of mach
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitanshubaranwal&theme=tokyonight" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mitanshubaranwal&show_icons=true&theme=tokyonight&hide=prs,issues" alt="GitHub Stats" />
 </p>
 
 
