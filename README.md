@@ -15,7 +15,7 @@ A few things about me:
 
 📧 How to reach me **mitanshubaranwal70232@gmail.com**
 
-💬 Reach out to me for any suggestions or suggest me any changes in my current code **I am happy to hear;**
+💬 Reach out to me  **for any suggestions or suggest me any changes in my current code. I am happy to hear;**
 
 It all started with my curiosity to learn about Machines and Artificial Intelligence and the ability of machines to solve several Real Life Problems. I worked on several Backend, Data Engineering and AI projects. I am on this journey to empower and solve as many complex real-world problems as possible with my forever learning, innovative and hard-working mindset. 
 
