@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-- 💼 **Software Developer ** with 4 years of experience
+- 💼 Software Developer **with 4 years of experience**
 - 🧠 Passionate about **solving real-world problems** through intelligent, scalable systems
 - 📚 Skilled in **Data Engineering, Backend APIs, Vector DBs, and AI/ML**
 - 🌐 Currently building a personal project leveraging **Vector Databases**
