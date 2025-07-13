@@ -17,11 +17,19 @@ A few things about me:
 
 💬 Reach out to me  **for any suggestions or suggest me any changes in my current code. I am happy to hear;**
 
-It all started with my curiosity to learn about Machines and Artificial Intelligence and the ability of machines to solve several Real Life Problems. I worked on several Backend, Data Engineering and AI projects. I am on this journey to empower and solve as many complex real-world problems as possible with my forever learning, innovative and hard-working mindset. 
+It all started with my curiosity to learn about Machines and the ability of machines to solve several real-life problems. I have worked on several Backend, Data Engineering and AI projects. I am on this journey to empower and solve as many complex real-world problems as possible with my forever learning, innovative and hard-working mindset. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mitanshu-baranwal-a9492b15b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mitanshu-baranwal-a9492b15b" height="30" width="40" /></a>
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitanshubaranwal&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mitanshubaranwal&show_icons=true&theme=tokyonight&hide=prs,issues" alt="GitHub Stats" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
