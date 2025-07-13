@@ -13,11 +13,12 @@ A few things about me:
 
 📍 I’m currently located in **Bangalore, Karnataka;**
 
+It all started with my curiosity to learn about Machines and the ability of machines to solve several real-life problems. I have worked on several Backend, Data Engineering and AI projects. I am on this journey to empower and solve as many complex real-world problems as possible with my forever learning, innovative and hard-working mindset. 
+
 📧 How to reach me **mitanshubaranwal70232@gmail.com**
 
 💬 Reach out to me  **for any suggestions or suggest me any changes in my current code. I am happy to hear;**
 
-It all started with my curiosity to learn about Machines and the ability of machines to solve several real-life problems. I have worked on several Backend, Data Engineering and AI projects. I am on this journey to empower and solve as many complex real-world problems as possible with my forever learning, innovative and hard-working mindset. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
