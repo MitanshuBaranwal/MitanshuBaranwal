@@ -10,7 +10,6 @@
 - 📚 Skilled in **Data Engineering, Backend APIs, Vector DBs, and AI/ML**
 - 🌐 Currently building a personal project leveraging **Vector Databases**
 - 📍 Based in **Bangalore, India**
-- 📈 Preparing for **Good roles** with focus on **DSA, System Design, and Deep Tech**
 
 I started my journey out of pure curiosity for how machines learn and interact with the world. Over time, this evolved into a mission to architect high-performance systems and pipelines that are not only intelligent but also robust and production-grade. Whether it's wrangling big data, optimizing backend flows, or experimenting with AI, I'm always pushing the limits.
 
